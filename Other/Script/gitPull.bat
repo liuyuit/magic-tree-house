@@ -1,4 +1,5 @@
 @echo off
-E:
-cd '\BaiduNetdiskDownload\Magic tree house
+cd /d %~dp0
+cd ../../
+
 git pull

@@ -1,2 +1,2 @@
 Set ws = CreateObject("Wscript.Shell") 
-ws.run "cmd /c E:\Study\Other\Script\gitPull.bat",vbhide 
+ws.run "cmd /c 'F:\BaiduNetdiskDownload\Magic tree house\Other\Script\gitPull.bat'",vbhide
